@@ -3,7 +3,7 @@
 Este repositório contém a estrutura e a documentação completa do banco de dados. Todo o conteúdo sobre *procedures, **triggers, **functions* e outras implementações SQL pode ser encontrado no arquivo PDF deste repositório.
 
 ## Conteúdo
-
+ 
 No arquivo PDF disponível neste repositório, você encontrará:
 
 - *Procedures*: Explicações detalhadas sobre cada procedure criada, incluindo os parâmetros, lógica interna e exemplos de uso.
