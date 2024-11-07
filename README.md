@@ -1,6 +1,6 @@
 # Documentação do Banco de Dados
 
-Este repositório contém a estrutura e a documentação completa do banco de dados utilizado para [inserir aqui o propósito do banco de dados]. Todo o conteúdo sobre *procedures, **triggers, **functions* e outras implementações SQL pode ser encontrado no arquivo PDF deste repositório.
+Este repositório contém a estrutura e a documentação completa do banco de dados. Todo o conteúdo sobre *procedures, **triggers, **functions* e outras implementações SQL pode ser encontrado no arquivo PDF deste repositório.
 
 ## Conteúdo
 
